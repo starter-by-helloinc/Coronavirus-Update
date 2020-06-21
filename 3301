@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Coronavirus Update | By Starter / Hello.inc</title>
+<style>
+.maindiv{
+	background-color:grey;
+	
+}
+
+</style>
+</head>
+<body>
+<div class=maindiv>
+<div class=headdiv>
+India Coronavirus Update
+<div class=update>
+Last updated on : 21/06/2020 on 6:45 
+</div>
+</div>
+<div class=bodydiv>
+
+
+</div>
+</div>
+</body>
+</html>
